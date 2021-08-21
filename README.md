@@ -3,7 +3,7 @@ Halo~ ini adalah website yg aku buat dengan framework bootstrap khusus buat para
 
 Ini projek pertamaku di github yg serius jadi mohon maaf nih kalau bagian readme-nya masih jelek.
 
-#fitur
+# fitur
 Website ini datang dengan beberapa fitur utama yaitu :
 <ul>
 <li>Responsive Website</li>
