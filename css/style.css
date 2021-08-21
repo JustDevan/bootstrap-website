@@ -1,0 +1,8 @@
+.img-pop {
+    transition: 300ms;
+}
+
+.img-pop:hover {
+    cursor: pointer;
+    transform: scale(1.04);
+}
