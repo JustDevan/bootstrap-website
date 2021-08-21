@@ -1,5 +1,5 @@
 # bootstrap-website
-Halo~ ini adalah website yg aku buat dengan framework <a href="getbootstrap.com">Bootstrap</a> khusus buat para developer shader mcbe (baik itu di indonesia atau luar negeri).
+Halo~ ini adalah website yg aku buat dengan framework <a href="https://getbootstrap.com">Bootstrap</a> khusus buat para developer shader mcbe (baik itu di indonesia atau luar negeri).
 
 Ini projek pertamaku di github yg serius jadi mohon maaf nih kalau bagian readme-nya masih jelek.
 
